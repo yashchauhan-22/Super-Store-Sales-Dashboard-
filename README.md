@@ -65,7 +65,7 @@ The dashboard provides sales distribution across:
 along with shipping mode performance by region.
 
 ## 📷 Dashboard Preview
-(Add screenshots of your dashboard here)
+![image alt](https://github.com/yashchauhan-22/Super-Store-Sales-Dashboard-/blob/e54231646bfa27eb12870e456f5ad6aff8c3fab8/Screenshot%20(5).png)
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning & Transformation
