@@ -67,6 +67,7 @@ along with shipping mode performance by region.
 ## 📷 Dashboard Preview
 ![image alt](https://github.com/yashchauhan-22/Super-Store-Sales-Dashboard-/blob/e54231646bfa27eb12870e456f5ad6aff8c3fab8/Screenshot%20(5).png)
 
+![image alt](https://github.com/yashchauhan-22/Super-Store-Sales-Dashboard-/blob/01ccc09935a095b76d7995ff43e54ae3331f8b8a/Screenshot%20(6).png)
 ## 🚀 Skills Demonstrated
 - Data Cleaning & Transformation
 - Data Visualization
